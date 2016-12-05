@@ -1,6 +1,4 @@
 # unix-basic-instructions
-
-
 <b>show the files in the same level catalog:</b>
 
 ls
