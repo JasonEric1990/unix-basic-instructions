@@ -1,23 +1,23 @@
 # unix-basic-instructions
 
 
-###show the files in the same level catalog:
+<b_>show the files in the same level catalog:<b_>
 
 ls
 
-###change to another catalog of file:
+<b_>change to another catalog of file:<b_>
 
-cd/filename lv1/filename lv2:
+cd/filename lv1/filename lv2
 
-###compile the c code:
+<b_>compile the c code:<b_>
 
 gcc filename -o filename
 
-###compile the c++ code:
+<b_>compile the c++ code:<b_>
 
 g++ filename -o filename
 
-###if it is compiled ,and the compiler doesn't show any error then it will come out of the execution file.
-###And you can execute it:
+<b_>if it is compiled ,and the compiler doesn't show any error then it will come out of the execution file.<b_>
+<b_>And you can execute it:<b_>
 
 ./filename
