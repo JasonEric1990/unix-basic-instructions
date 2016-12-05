@@ -18,6 +18,6 @@ gcc filename -o filename
 g++ filename -o filename
 
 ###if it is compiled ,and the compiler doesn't show any error then it will come out of the execution file.
-And you can execute it:
+###And you can execute it:
 
 ./filename
