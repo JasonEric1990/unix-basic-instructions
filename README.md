@@ -48,7 +48,7 @@ which gcc
 
 <b>download or update the program or files:</b>
 
-pipe
+pipe  < depent by case Ex: pipe python3>
 
 <b>see the information of the instruction:</b>
 
