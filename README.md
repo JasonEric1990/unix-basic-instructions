@@ -46,6 +46,14 @@ g++ filename -o filename
 
 which gcc
 
+<b>download or update the program or files:</b>
+
+pipe
+
+<b>see the information of the instruction:</b>
+
+man instructionname
+
 <b>if it is compiled ,and the compiler doesn't show any error then it will come out of the execution file(compiler->Assembly language->Assember->Machine language->Linker merge it and put it in the disk).</b>
 
 <b>And you can call it's filename to let loader to load it to memory and execute it:</b>
