@@ -1,6 +1,6 @@
 # unix-basic-instructions
 
-<a>UNIX is a platform to let you can control , maintain the file and the system</a>
+<c>UNIX is a platform to let you can control , maintain the file and the system</c>
 
 <b>show the files in the same level catalog:</b>
 
