@@ -42,6 +42,12 @@ gcc filename -o filename
 
 g++ filename -o filename
 
+<b>if it is compiled ,and the compiler doesn't show any error then it will come out of the execution file(compiler->Assembly language->Assember->Machine language->Linker merge it and put it in the disk).</b>
+
+<b>And you can call it's filename to let loader to load it to memory and execute it:</b>
+
+./filename
+
 <b>check if you have gcc or not:</b>
 
 which gcc
@@ -58,8 +64,3 @@ man instructionname
 
 q
 
-<b>if it is compiled ,and the compiler doesn't show any error then it will come out of the execution file(compiler->Assembly language->Assember->Machine language->Linker merge it and put it in the disk).</b>
-
-<b>And you can call it's filename to let loader to load it to memory and execute it:</b>
-
-./filename
