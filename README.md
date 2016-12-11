@@ -1,4 +1,7 @@
 # unix-basic-instructions
+
+<a>UNIX is a platform to let you can control , maintain the file and the system</a>
+
 <b>show the files in the same level catalog:</b>
 
 ls
@@ -43,8 +46,7 @@ g++ filename -o filename
 
 which gcc
 
-<b>if it is compiled ,and the compiler doesn't show any error then it will come out of the execution file(Linker merge it).</b>
+<b>if it is compiled ,and the compiler doesn't show any error then it will come out of the execution file(compiler->Assembly language->Assember->Machine language->Linker merge it and put it in the disk).</b>
 <b>And you can call it's filename to let loader to load it to memory and execute it:</b>
-
 
 ./filename
