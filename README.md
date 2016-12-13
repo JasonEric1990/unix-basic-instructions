@@ -6,7 +6,7 @@
 
 ```{r echo=FALSE}
 ls
-```{r}
+```
 
 <b>change to another directory(go deeper):</b>
 
