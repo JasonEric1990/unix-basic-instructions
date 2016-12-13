@@ -4,6 +4,7 @@
 
 <b>show the files in the same level catalog:</b>
 
+echo
 ls
 
 <b>change to another directory(go deeper):</b>
