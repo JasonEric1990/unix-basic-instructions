@@ -88,3 +88,16 @@ man instructionname
 ```
 q
 ```
+
+<I>other professional instructions</I>
+
+<b>using xxd, a command-line "hex editor.":</b>
+
+```
+xxd-c 36 -g 2 -s 54 filename.bmp    
+```
+
+<b>notes：</b>
+<b>-s means start from where,and the address is by hexadecimal(transform from decimal to hexadecimal)in the case 0000036</b>
+<b>-g means how many words in one block by byte</b>
+<b>-c means how many data in a row by byte</b>
