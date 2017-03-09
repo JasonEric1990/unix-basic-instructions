@@ -95,7 +95,7 @@ q
 <b>using xxd, a command-line "hex editor.":</b>
 
 ```
-xxd-c 36 -g 2 -s 54 filename.bmp    
+xxd -c 36 -g 2 -s 54 filename.bmp    
 ```
 
 <b>notes：</b>
