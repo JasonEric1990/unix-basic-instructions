@@ -105,3 +105,12 @@ xxd -c 36 -g 2 -s 54 filename.bmp
 <b>-g means how many words in one block by byte</b>
 
 <b>-c means how many data in a row by byte</b>
+
+<b>Test the file category:</b>
+```
+file  <filename>
+```
+<b>If you meet :"-bash: ./2: Permission denied" when execute file on command line:</b>
+```
+chmod u+x  <filename>
+```
